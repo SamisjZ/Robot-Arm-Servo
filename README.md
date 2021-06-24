@@ -22,7 +22,7 @@ after conneecting the circuit and run the code you can control the servo with th
 <img width="511" alt="servo arm controlled circuit" src="https://user-images.githubusercontent.com/86025722/122647833-d3614480-d12e-11eb-8287-63647509f221.PNG">
 
 
-in the 90 degree circuit its easyer, see the connection in the file "circuit 90 degree Robot Arm Servo Motors.png"
+in the auto sweep 90 degree circuit its easier, see the connection in the file "circuit 90 degree Robot Arm Servo Motors.png"
 
 1- I connect all the servo motors to the power +battry and -battry and the GND of arduino to -battry, and connect the signal wires of the servo to the arduino PWM pins (3,5,6,9,10,11) 
 
