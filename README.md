@@ -19,7 +19,9 @@ in the code file "servo_Arm.ino" you will find a discription for the steps.
 
 after conneecting the circuit and run the code you can control the servo with the potentiometer from 90 degree angle to 0 degree angle as in the next picture
 
-<img width="511" alt="servo arm controlled circuit" src="https://user-images.githubusercontent.com/86025722/122647833-d3614480-d12e-11eb-8287-63647509f221.PNG">
+<img width="530" alt="circuit Robot Arm Servo Motors with controlled potentiometer " src="https://user-images.githubusercontent.com/86025722/123190536-5fb19580-d4a8-11eb-9518-ea9c53e53524.png">
+
+
 
 
 in the auto sweep 90 degree circuit its easier, see the connection in the file "circuit 90 degree Robot Arm Servo Motors.png"
